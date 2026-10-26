@@ -96,17 +96,22 @@ I'm open to **web development roles, internships, collaborative projects, and op
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirubavarshini&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubavarshini&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub statistics, including public repository activity" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kirubavarshini&theme=merko&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=merko&hide_border=true" alt="Most frequently used programming languages in public repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirubavarshini&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=merko&hide_border=true" alt="GitHub contribution streak statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=merko&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
