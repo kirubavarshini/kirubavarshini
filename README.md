@@ -91,3 +91,22 @@ I'm open to **web development roles, internships, collaborative projects, and op
 ---
 
 <sub>🌿 Building with curiosity. Designing with purpose. Growing through code.</sub>
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirubavarshini&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubavarshini&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kirubavarshini&theme=merko&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirubavarshini&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
+</p>
