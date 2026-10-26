@@ -85,7 +85,7 @@ Some areas I'd love to explore:
 
 I'm open to **web development roles, internships, collaborative projects, and opportunities to grow as a developer**.
 
-- 💼 LinkedIn: linkedin.com/in/kiruba-varshini 
+- 💼 LinkedIn: [linkedin.com/in/kiruba-varshini ](https://www.linkedin.com/in/kiruba-varshini/)
 - 📧 Email: kirubavarshini28@gmail.com 
 
 ---
