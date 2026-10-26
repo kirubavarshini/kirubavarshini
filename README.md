@@ -94,21 +94,14 @@ I'm open to **web development roles, internships, collaborative projects, and op
 
 ---
 
----
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirubavarshini&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub statistics, including public repository activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirubavarshini&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubavarshini&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubavarshini&layout=compact&theme=merko&hide_border=true" alt="Most frequently used programming languages in public repositories" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kirubavarshini&theme=merko&hide_border=true" alt="GitHub contribution streak statistics" />
+  <img src="https://streak-stats.demolab.com?user=kirubavarshini&theme=merko&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
