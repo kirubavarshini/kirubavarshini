@@ -112,6 +112,3 @@ I'm open to **web development roles, internships, collaborative projects, and op
   <img src="https://streak-stats.demolab.com/?user=kirubavarshini&theme=merko&hide_border=true" alt="GitHub contribution streak statistics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirubavarshini&theme=merko&hide_border=true&area=true" />
-</p>
